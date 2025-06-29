@@ -4,6 +4,8 @@
 
 // Determine the expected state of the theme toggle, which can be "dark", "light", or
 // "system". Default is "system".
+
+
 let determineThemeSetting = () => {
   let themeSetting = localStorage.getItem("theme");
   return (themeSetting != "dark" && themeSetting != "light" && themeSetting != "system") ? "system" : themeSetting;
@@ -46,6 +48,7 @@ var toggleTheme = () => {
   localStorage.setItem("theme", new_theme);
   setTheme(new_theme);
 };
+
 
 /* ==========================================================================
    Plotly integration script so that Markdown codeblocks will be rendered
