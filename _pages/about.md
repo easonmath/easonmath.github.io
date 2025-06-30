@@ -27,11 +27,11 @@ I apologize for the lack of interesting information on this website (please feel
 
 Except for X1 and X2 below, please feel free to contact me about anything!!!
 
-My email: min.yi.shen0403106-at-gmail.com
+✉️ My email: min.yi.shen0403106-at-gmail.com
 
 Even just a simple "hi" is welcome! I really enjoy talking to people!
 
 - X1: Any commercial advertisements.
-- X2: {Abbreviation of the first name: S.-N.}$$\,\cap\,$${Completed PhD in Mathematics at Uni-DUE}$$\,\cap\,$${Last name: Tung}.
+- X2: {Abbreviation of the first name: S.-N.}$$\,\cap\,$${Completed PhD in Mathematics at Uni DuE}$$\,\cap\,$${Last name: Tung}.
   
-  - If you (especially women) recieve an email from this person, we — all the students who know him — strongly recommend that you ignore it, no matter what he says. Any response tends to lead to endless disturbances. (Email is his most direct way, he has many methods, such as "suggesting" that a student build a connection with someone. I feel truly sorry for the kind people around me.)
+  - If you (especially women) recieve an email from this person, we — all the students who know him — strongly recommend that you ignore it, no matter what he says. Any response tends to lead to endless disturbances. I feel truly sorry for the kind people around me.
