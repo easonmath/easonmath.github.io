@@ -7,4 +7,4 @@ author_profile: true
 
 {% include base_path %}
 
-One manuscript in progress
+One manuscript in progress.
