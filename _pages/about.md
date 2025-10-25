@@ -8,7 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-Hello! My name is Min-Yi.
+### Hello!  Hallo!  Salut!  Szia! こんにちは!
+
+My name is Min-Yi.
 
 📢 *I am looking for a doctoral position❗*
 
