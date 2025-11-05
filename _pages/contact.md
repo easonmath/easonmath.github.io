@@ -12,5 +12,5 @@ author_profile: true
 Even just a simple "hi" is welcome! I really enjoy talking to people!
 
 - X1: Any commercial advertisements.
-- X2: {Abbreviation of the first name: S.-N.}$$\,\cap\,$${Completed PhD in Mathematics at Uni DuE}$$\,\cap\,$${Last name: Tung}.
+- X2: {Completed PhD in Mathematics at Uni DuE}$$\,\cap\,$${Last name: Tung}.
   - If you receive an email from this person, we — all the students who know him — strongly recommend that you ignore it.
