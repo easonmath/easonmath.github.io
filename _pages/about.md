@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About me"
+title: "Homepage"
 sitemap: false
 author_profile: true
 redirect_from: 
