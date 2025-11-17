@@ -14,8 +14,8 @@ main:
   - title: "Talks"
     url: /talks/    
   
-  - title: "Links"
-    url: /links/    
+  - title: "Other Things"
+    url: /other_things/    
 
   - title: "Contact"
     url: /contact/ 
