@@ -23,11 +23,11 @@ author_profile: true
 
 ## About me
 
-I often spend some time on wandering around [Wikipedia](https://en.wikipedia.org/wiki/Main_Page) and knocking on blue doors there. I also enjoy solving [Sudoku](https://en.wikipedia.org/wiki/Sudoku) and watching [MLB](https://www.mlb.com). I love exploring new places – either alone or with friends — especially those with beautiful scenery.
+I often spend some time on wandering around [Wikipedia](https://en.wikipedia.org/wiki/Main_Page) and knocking on blue doors there. I also enjoy solving [Sudoku](https://en.wikipedia.org/wiki/Sudoku), (repeatedly) reading the novels by [Jing Yong](https://en.wikipedia.org/wiki/Jin_Yong), and watching [MLB](https://www.mlb.com). Moreover, I love exploring new places – either alone or with friends — especially those with beautiful scenery.
 
 <details>
 
-<summary>Something unimportant</summary>
+<summary>Click here to see something unimportant</summary>
 
 <ul>
     <li>I studied electrical engineering at a vocational high school (similar to Germany's Berufsfachschule) for a year. I switched to a regular high school because I kept causing short circuits in the lab. But it was a super funny year, I made many long-term friends there, and the number in my email address is my student ID there.</li>
