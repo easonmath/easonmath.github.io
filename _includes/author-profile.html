@@ -12,6 +12,10 @@
     {% else %}
     	<img src="{{ author.avatar | prepend: "/images/" | prepend: base_path }}" class="author__avatar" alt="{{ author.name }}">
     {% endif %}
+
+    {% if author.where %}
+    <div class="author__where">{{ author.where }}</div>
+    {% endif %}
   </div>
 
   <div class="author__content">

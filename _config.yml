@@ -23,6 +23,7 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "face.jpeg"
+  where            : "Hachiman-bori Canal, 21.11.2025"
   name             : "Min-Yi"
   pronouns         : # example: "she/her"  
   bio              : #"Short biography for the left-hand sidebar"
