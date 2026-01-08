@@ -19,11 +19,31 @@ author_profile: true
 
 [Sutherland's notes](https://math.mit.edu/~drew/)
 
-[Biographies of mathematicians](https://mathshistory.st-andrews.ac.uk/Biographies/)
-
 ## About me
 
-I often spend some time on wandering around [Wikipedia](https://en.wikipedia.org/wiki/Main_Page) and knocking on blue doors there. I also enjoy solving [Sudoku](https://en.wikipedia.org/wiki/Sudoku), (repeatedly) reading the novels by [Jing Yong](https://en.wikipedia.org/wiki/Jin_Yong), and watching [MLB](https://www.mlb.com). Moreover, I love exploring new places – either alone or with friends — especially those with beautiful scenery.
+I love exploring new places – either alone or with friends — especially those with beautiful scenery. I often spend some time on wandering around [Wikipedia](https://en.wikipedia.org/wiki/Main_Page) and knocking on blue doors there. I also enjoy solving [Sudoku](https://en.wikipedia.org/wiki/Sudoku), (repeatedly) reading the novels by [Jing Yong](https://en.wikipedia.org/wiki/Jin_Yong), and watching [MLB](https://www.mlb.com).
+
+Mandarin and Taiwanese are my mother tongues. I'm also learning two other languages: I have spent 15 years on one of them and have just started learning the other.
+
+<details>
+<summary>Click here to see some words</summary>
+
+<blockquote class="quote">
+    Cleverness is a gift, kindness is a choice
+    <cite> Jeff Bezos</cite>
+</blockquote>
+
+<ul>
+During the dark and discouraging application year (not yet finished...), only the following researchers were willing to spend time offering "real" help. I would like to express my deepest gratitude to them here.
+
+<li>I'd especially like to thank Póoor for his incredible kindness toward an unfamiliar student and for taking the time to discuss math with me.</li>
+<li>I'd also like to thank 小O先生 and 守O先生, who consistently offered many valuable suggestions.</li>
+
+(Names have been partially anonymized, as I did not seek their explicit consent; however, I believe they will recognize that the references are to them.)<br>
+
+I hope that being a warm and kind person like them will always come before being a researcher.
+</ul>
+</details>
 
 <details>
 
