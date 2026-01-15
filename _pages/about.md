@@ -12,6 +12,6 @@ redirect_from:
 
 My name is Min-Yi.
 
-📢 *I am looking for a doctoral position❗*
+📢 *I am looking for doctoral opportunities❗ (Please help*
 
 🎓 I obtained my M.S. in Mathematics under the supervision of Dr. Kunzweiler (Inria). I'm interested in algorithmic number theory and isogeny-based cryptography.
