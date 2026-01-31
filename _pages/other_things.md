@@ -40,9 +40,9 @@ Mandarin and Taiwanese are my mother tongues, and two other languages are a work
 During the dark and discouraging application year(s) (not yet ended...), only the following researchers were willing to spend time offering "real" help. I would like to express my deepest gratitude to them here.
 
 <ul style="list-style-type: square; margin-top: 1em;">
-<li> I'd especially like to thank Póoor for his incredible kindness toward an unfamiliar student and for taking the time to discuss math with me.</li>
+<li> I'd especially like to thank P— for his incredible kindness toward an unfamiliar student and for taking the time to discuss math with me.</li>
 
-<li> I'd also like to thank Dr. Ooooi and Dr. Mooooa, who consistently offered many valuable and practical suggestions. A huge thank also goes to Prof. Tooooi; he helped me recognize my many shortcomings in cryptography and provided me with a great deal of advice and recommended readings.  </li>
+<li> I'd also like to thank Dr. O— and Dr. M—, who consistently offered many valuable and practical suggestions. A huge thank also goes to Prof. T—; he helped me recognize my many shortcomings in cryptography and provided me with a great deal of advice and recommended readings.  </li>
 </ul>
 
 <ul style="list-style-type: circle;">

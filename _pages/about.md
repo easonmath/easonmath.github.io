@@ -14,4 +14,7 @@ My name is Min-Yi.
 
 📢 *I am seeking doctoral opportunities❗ (Please help*😵
 
-🎓 I am interested in algorithmic number theory and cryptography, especially isogeny-based cryptography (I am also open to other PQC families), with a particular focus on cryptanalysis. 
+🎓 I am interested in
+
+- Algorithmic number theory.
+- Cryptography, especially cryptanalysis. I mainly work on isogeny-based cryptography but I am also open to other PQC families.
