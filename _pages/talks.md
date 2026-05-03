@@ -5,7 +5,5 @@ permalink: /talks/
 author_profile: true
 ---
 
-Information about two talks (1 conference and 1 seminar) regarding our paper will be here soon.
-
-1. *To do*, Saint Malo
-2. *To do*, Rennes
+1. TBA, April 14, 2026
+2. TBA, April 10, 2026

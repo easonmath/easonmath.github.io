@@ -10,11 +10,12 @@ redirect_from:
 
 ### Hello!  Hallo!  Salut!  Szia! こんにちは!
 
-My name is Min-Yi.
+My name is Min-Yi, I'm an informal research assistant under the supervision of [Péter Kutas](https://sites.google.com/view/peterkutas89/main-page?authuser=0), who is also my referee!
 
-📢 *I am seeking doctoral opportunities❗ (Please help*😵
+📢 ***I am seeking doctoral opportunities❗ Please feel free to send me an email if you know of any opportunities❗***
 
 🎓 I am interested in
 
-- Algorithmic number theory.
-- Cryptography, especially cryptanalysis. I mainly work on isogeny-based cryptography but I am also open to other PQC families.
+- PQC, especially all code-based and MQ topics. I have worked on algebraic attacks on these two families, and I maintain broad interests in the area, including constructions, theory and related topics.
+
+- ~~Previous work: Algorithmic number theory and isogeny-based cryptography~~
