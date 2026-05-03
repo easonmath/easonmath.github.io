@@ -38,6 +38,7 @@ During the dark and discouraging application years (not yet ended...), only the 
 
 <ul style="list-style-type: circle;">
 <span style="font-size: 0.7em;" ><li>Names have been partially anonymized, as I did not seek their explicit consent; however, I believe they will recognize that the references are to them.</li></span>
+<span style="font-size: 0.7em;" ><li>I exactly know how useless and callous "I'm sorry to hear that ...(summary of bad news)" can sound, please feel free to give me a nudge if I use it when you’re seeking help.</li></span>
 </ul>
 </ul>
 </details>
