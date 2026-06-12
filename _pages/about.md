@@ -10,12 +10,12 @@ redirect_from:
 
 ### Hello!  Hallo!  Salut!  Szia! こんにちは!
 
-My name is Min-Yi, I'm an informal research assistant under the supervision of [Péter Kutas](https://sites.google.com/view/peterkutas89/main-page?authuser=0), who is also my referee! I obtained my B.S. and M.S. degrees in mathematics.
+My name is Min-Yi, I'm an (informal) research assistant under the supervision of [Péter Kutas](https://sites.google.com/view/peterkutas89/main-page?authuser=0), who is also my main referee! I obtained my B.S. and M.S. degrees in mathematics.
 
-📢 ***I am seeking doctoral opportunities❗ Please feel free to send me an email if you know of any opportunities❗***
+📢 ***I am seeking doctoral opportunities❗ Please feel free to email me if you know of any opportunities❗***
 
 🎓 I am interested in
 
-- PQC, especially all code-based and MQ topics. I have worked on algebraic attacks on these two families, and I maintain broad interests in the area, including constructions, theory and related topics.
+- PQC, especially all code-based and multivariate topics. I maintain broad interests in the area, including mathematical background, cryptographic constructions and related topics.
 
-- <small>**Previous** work: Algorithmic number theory and isogeny-based cryptography</small>
+- Previous work: Algorithmic number theory

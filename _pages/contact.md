@@ -7,10 +7,17 @@ author_profile: true
 
 📬 My email: min.yi.shen0403106-at-gmail.com
 
-**Except for X1 and X2 below, please feel free to contact me about anything.**
+💬 Signal, WhatsApp and so on: I do use them, but email first
 
-Even just a simple "hi" is welcome! I really enjoy talking to people!
+🙈 In-person meeting: email first
 
-- X1: Any commercial advertisements.
-- X2: {Completed PhD in Mathematics at Uni DuE}$$\,\cap\,$${Last name: Tung}.
-  - If you receive an email from this person, we — all the students who know him — strongly recommend that you ignore it.
+💻 Online meeting: email first
+
+**Please feel free to contact me. Even just a simple "hi" is welcome!**
+
+I usually reply quite quickly, so feel free to follow up if you do not hear back from me within three days.
+
+I truly dislike people who never reply, so I do my best not to become such a person myself. If you do not receive a reply from me, then it is probably because:
+
+- I think it's a commercial advertisement.
+- I tend not to reply to some people, e.g., senders of very rude emails, people ignoring all ($$\geq 3$$) my previous emails, and those who stayed cruelly indifferent while I was struggling through hell.
