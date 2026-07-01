@@ -24,7 +24,7 @@ author:
   # Biographic information
   avatar           : "face.jpeg"
   where            : "Hachiman-bori Canal, 21.11.2025"
-  name             : "Min-Yi"
+  name             : "Min-Yi Shen"
   pronouns         : # example: "she/her"  
   bio              : #"Short biography for the left-hand sidebar"
   location         : #"An island"
@@ -35,7 +35,7 @@ author:
   # Academic websites
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com.tw/citations?user=keYm3RQAAAAJ&hl=en&authuser=1"
+  googlescholar    : #"https://scholar.google.com"
   impactstory      : # URL
   orcid            : "https://orcid.org/0009-0000-5416-077X"
   semantic         : # URL
@@ -52,7 +52,7 @@ author:
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : "myseason.bsky.social" #"bsky.app" # Replace this with you Bluesky username
+  bluesky          : # "abc.bsky.social" #"bsky.app" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username

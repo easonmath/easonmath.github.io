@@ -1,11 +1,23 @@
 ---
 layout: archive
-title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
 
-{% include base_path %}
+<div style="
+    width:100%;
+    overflow:hidden;
+">
+    <img src="/images/Budapest.jpeg"
+         style="
+            width:100%;
+            height:350px;
+            object-fit:cover;
+            display:block;
+         ">
+</div>
+
+# Publications
 
 <ol>
   <li><span style='font-family: "Courier", cursive;'><em>Splittings and Endomorphism Rings</em></span>, with P. Kutas, <strong>submitted</strong>, <a href="https://eprint.iacr.org/2026/1198">eprint</a></li>

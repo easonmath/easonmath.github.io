@@ -1,9 +1,23 @@
 ---
 layout: archive
-title: "Talks and Presentations"
 permalink: /talks/
 author_profile: true
 ---
+
+<div style="
+    width:100%;
+    overflow:hidden;
+">
+    <img src="/images/Uji.jpeg"
+         style="
+            width:100%;
+            height:350px;
+            object-fit:cover;
+            display:block;
+         ">
+</div>
+
+# Talks
 
 <ol>
   <li><span style='font-family: "Comic Sans MS", cursive;'><em> Splittings and Endomorphism Rings</em></span> (20min), <strong>TBA</strong></li>

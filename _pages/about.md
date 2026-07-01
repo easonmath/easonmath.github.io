@@ -1,16 +1,27 @@
 ---
 permalink: /
-title: "Homepage"
 sitemap: false
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+<div style="
+    width:100%;
+    overflow:hidden;
+">
+    <img src="/images/Waimushan.jpeg"
+         style="
+            width:100%;
+            height:350px;
+            object-fit:cover;
+            display:block;
+         ">
+</div>
 
-### Hello!  Hallo!  Salut!  Szia! こんにちは!
+## Hello!  Hallo!  Salut!  Szia! こんにちは!
 
-My name is Min-Yi, I'm an (informal) research assistant under the supervision of [Péter Kutas](https://sites.google.com/view/peterkutas89/main-page?authuser=0), who is also my main referee! I obtained my B.S. and M.S. degrees in mathematics.
+My name is Min-Yi, I'm an (informal) research assistant under the supervision of **[Péter Kutas](https://sites.google.com/view/peterkutas89/main-page?authuser=0)**, who is also my main referee! I obtained my B.S. and M.S. degrees in mathematics.
 
 📢 ***I am seeking doctoral opportunities❗ Please feel free to email me if you know of any opportunities❗***
 
