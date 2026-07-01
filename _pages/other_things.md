@@ -48,11 +48,11 @@ Photos on this website were taken by me: Keelung/Budapest/Uji/Kyoto/Heidelberg.
 </blockquote>
 
 <ul>
-The dark and discouraging application years (not yet ended...) — out of the hundreds of emails sent to 71 researchers: 3 formal rejections (1 implementation, 2 theoretical crypto), 4 non-negative replies, and the rest were direct rejections (no fundings or no replies or no vacancies). Only the following researchers were willing to help. I would like to express my deepest gratitude to them here.
+During the dark and discouraging application years (not yet ended...), only the following researchers were willing to help. I would like to express my deepest gratitude to them here.
 
 <ul style="list-style-type: square; margin-top: 1em;">
 
-<li> I would like to thank <strong>Dr. O—i</strong> and <strong>Dr. M—a</strong> for their valuable suggestions. A huge thank also goes to <strong>Prof. T—i</strong> who patiently helped me recognize my many shortcomings in cryptography and provided me with a great deal of advice and recommended readings. I also thank <strong>A—n</strong> and <strong>P—k</strong> for giving me many names, and <strong>St—n</strong> and <strong>L—z</strong> for mentioning me to someone directly. Special thanks go to <strong>St—n</strong>: Besides <strong>P—</strong> mentioned below, he is the only scholar who really cared about my situation and offered quick help. All of you are the only light in the <s>is..</s>icy community — thank you!</li>
+<li> I would like to thank <strong>Dr. O—i</strong> and <strong>Dr. M—a</strong> for their valuable suggestions. A huge thank also goes to <strong>Prof. T—i</strong> who patiently helped me recognize my many shortcomings in cryptography and provided me with a great deal of advice and recommended readings. I also thank <strong>A—a</strong> and <strong>P—k</strong> for giving me many names, and <strong>St—n</strong> and <strong>L—z</strong> for mentioning me to someone directly. Special thanks go to <strong>St—n</strong>: Besides <strong>P—</strong> mentioned below, he is the only scholar who really cared about my situation and offered quick help. All of you are the only light in the <s>is..</s>icy community — thank you!</li>
 
 <li> I would like to thank <strong>Prof. T—i</strong>, <strong>C—g</strong>, <strong>G—r</strong> and <strong>V—r</strong> (and <strong>H—u</strong>) for the interview opportunities and for encouraging me to apply for their positions.</li>
 
@@ -77,7 +77,7 @@ The dark and discouraging application years (not yet ended...) — out of the hu
 <ul>
     <li>I studied electrical engineering at a vocational high school (similar to Berufsfachschule in Germany) for a year. I switched to a regular high school because I kept causing short circuits (and then explosions) in the lab. But it was a very funny year, I made many long-term friends there, and the number in my email address is my student ID there.</li>
     <li>Due to the broken circuit between my brain and my hands, I later focused on purely theoretical subjects. I have never been good at math, and I seriously considered switching to history when I was a freshman.</li>
-    <li>I come from <a href="https://en.wikipedia.org/wiki/Keelung">Keelung</a>, which is also known as the "city of rain." There is a joke that people from Keelung always carry an umbrella. Well, this is true for me, so if anyone is caught in unexpected rain, one can just find me first:) By the way, if you plan a trip to northern Taiwan, be sure to set aside some time for the stunning coastline! <strong>I created a file including recommendations in northern Taiwan, especially Taipei and Keelung, feel free to contact me for it!</strong></li>
+    <li>I come from <a href="https://en.wikipedia.org/wiki/Keelung">Keelung</a>, which is also known as the "city of rain." There is a joke that people from Keelung always carry an umbrella. Well, this is true for me, so if anyone is caught in unexpected rain, one can just find me first:) By the way, if you plan a trip to northern Taiwan, be sure to set aside some time for the stunning coastline!
 </ul>
 
 </details>
