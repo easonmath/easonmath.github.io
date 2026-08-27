@@ -52,16 +52,16 @@ Out of the hundreds of emails/applications sent to 71 researchers, I had 4 non-n
 
 <ul style="list-style-type: square; margin-top: 1em;">
 
-<li> I would like to thank <strong>Dr. O—i</strong> and <strong>Dr. M—a</strong> for their valuable suggestions. A huge thank goes to <strong>Prof. T—i</strong> who patiently helped me recognize my many shortcomings in cryptography and provided me with a great deal of advice. I also thank <strong>A—a</strong>, <strong>A—e</strong> and <strong>P—k</strong> for providing many names and information, and <strong>St—n</strong> and <strong>L—z</strong> for mentioning me to someone directly. Besides <strong>P—</strong> mentioned below, <strong>St—n</strong> is the only scholar who really cared about my situation and offered quick help. All of you are the only light in the <s>is..</s>icy and inhospitable community — thank you!</li>
+<li> I would like to thank <strong>Dr. O—i</strong> and <strong>Dr. M—a</strong> for their valuable suggestions. A huge thank goes to <strong>Prof. T—i</strong> who patiently helped me recognize my many shortcomings in cryptography and provided me with a great deal of advice. I also thank <strong>A—a</strong>, <strong>A—e</strong> and <strong>P—k</strong> for providing many names and information, and <strong>L—z</strong> and <strong>St—n</strong> for mentioning me to someone directly. <strong>P—</strong> and <strong>St—n</strong> were the only scholars who really cared about my situation and offered quick help. All of you are the only light in the <s>is..</s>icy and inhospitable community — thank you!</li>
 
 <li> I would like to thank <strong>C—g</strong>, <strong>A—</strong>, <strong>V—r</strong> and <strong>H—u</strong> for their time. </li>
 
 <li> I also thank <strong>P—e</strong>, the only person who doesn't say, 'Let's find opportunities together,' as a lie or an empty promise. He was very actively guiding me in his field, and was willing to take me on as a summer intern. Except for <strong>P—</strong> and <strong>P—e</strong>, I had never met anyone willing to guide a student who had not yet secured a position. </li>
 
-<li> Finally, I wish to express my sincere gratitude to <strong>P—</strong> for <em>everything</em>, especially his incredible kindness and for taking the time to discuss math with me. <span style='font-family: "Comic Sans MS", cursive;'>He truly treats me as his own student, frequently gave me updates (i.e., hopes) on everyone's grants, is the first researcher who was willing to chat with me, is the first scholar who really took my plight seriously and provided help (strictly including ALL kinds of help above), is the ONLY academic whom I could freely discuss my applications (feeling like someone was finally in my corner was huge)</span>. Moreover, his insights into slide design totally revolutionized my thinking, so I could receive many good comments from strangers on my first talk. <span style='font-family: "Comic Sans MS", cursive;'>His guidance and support were invaluable during a period when my path forward seemed uncertain, hope felt fragile, and no one seemed helpful — I cannot imagine how I could have kept going without his help</span>.🫡</li>
+<li> Finally, I wish to express my sincere gratitude to <strong>P—</strong> for everything, especially his incredible kindness and for taking the time to discuss math with me. <span style='font-family: "Comic Sans MS", cursive;'>He truly treats me as his own student, frequently gave me updates (i.e., hopes) on everyone's grants, is the first researcher who was willing to chat with me, is the first scholar who really took my plight seriously and provided help (strictly including ALL kinds of help above), is the ONLY academic whom I could freely discuss my applications</span>. Moreover, his insights into slide design totally revolutionized my thinking, so I could receive many good comments from strangers on my first talk. Also, getting to know his group members (phd and postdoc) helps me a lot!  <span style='font-family: "Comic Sans MS", cursive;'>His guidance and support were invaluable during a period when hope felt fragile and no one seemed helpful — I cannot imagine how I could have kept going without his help</span>.🫡</li>
 </ul>
 
-<em>I hope that being a warm and kind person like them will always come before being a researcher. Also, my academic friends helped a lot, thank you <s>(and hate you lucky guys!)</s> <strong>E—s</strong>, <strong>J—k</strong>, <strong>J—n</strong>, <strong>S—m</strong> and especially <strong>Se—n</strong>, who gave me countless suggestions.</em>
+<em>I hope that being a warm and kind person like them will always come before being a researcher. Also, my academic friends helped a lot, thank you <s>(and hate you lucky guys!)</s> <strong>E—s</strong>, <strong>J—k</strong>, <strong>J—n</strong>, <strong>M—l</strong>, <strong>S—m</strong> and especially <strong>Se—n</strong>, who gave me countless suggestions.</em>
 
 <ul style="list-style-type: circle;">
 <span style="font-size: 0.7em;" ><li>Names have been partially anonymized, as I did not seek their explicit consent; however, I believe they will recognize that the references are to them.</li></span>
@@ -74,7 +74,7 @@ Out of the hundreds of emails/applications sent to 71 researchers, I had 4 non-n
     <cite> 上堂開示頌</cite>
 </blockquote>
 <ul>
-That was an extremely terrible, dark and lonely year — it's time to thank <strong>P—</strong> again — 99% of the time, he was the only one who supported me.  
+That was an extremely terrible and dark year — it's time to thank <strong>P—</strong> again — 99% of the time, he and his group members were the only people who supported me.  
 </ul>
 </details>
 
