@@ -25,7 +25,7 @@ redirect_from:
 
 <div style='font-family: "Courier", cursive;' markdown="1">
 
-👋 I am a doctoral student in the CA team at LITIS Lab. <span style="font-size: 0.5rem;">The long acknowledgment is in "Other Things"</span>
+👋 I am (going to be) a doctoral student in the CA team at LITIS Lab.
 
 I'm interested in code-based cryptography, including coding theory, cryptosystems, cryptanalysis and all related topics.
 

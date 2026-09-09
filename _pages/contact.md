@@ -23,7 +23,4 @@ author_profile: true
 
 **Even just a simple “hi” is welcome!**
 
-I truly dislike people who never reply, so I do my best not to become such a person myself. Some cases that I would not response:
-
-- Commercial advertisements and strange emails.
-- I tend not to reply to the cruelly indifferent people and those who ignoring all (and $$\geq 3$$) my previous emails.
+I truly dislike people who never reply, so I do my best not to become such a person myself. Some cases that I would not response: commercial advertisements, strange emails and cold people.
