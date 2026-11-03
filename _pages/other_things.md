@@ -48,7 +48,7 @@ Photos on this website were taken by me: Keelung, breathtaking Budapest, tranqui
 </blockquote>
 
 <ul>
-Out of the hundreds of emails/applications sent to 71 researchers, I had 4 non-negative replies, 4 official rejections, and the remaining ones were direct rejections (no replies or no vacancies or no fundings). I would like to express my deepest gratitude to people who helped me — it feels strange to say this on a website, but I couldn’t find a better place to put it.
+Regarding PhD applications, out of the hundreds of emails/applications sent to 71 researchers, I had 4 non-negative replies, 4 official rejections, and the remaining ones were direct rejections (no replies or no vacancies or no fundings). I would like to express my deepest gratitude to people who helped me here — it feels strange to say this on a website, but I couldn’t find a better place to put it.
 
 <ul style="list-style-type: square; margin-top: 1em;">
 

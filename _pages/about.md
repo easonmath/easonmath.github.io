@@ -25,7 +25,7 @@ redirect_from:
 
 <div style='font-family: "Courier", cursive;' markdown="1">
 
-👋 I am (going to be) a doctoral student in the CA team at LITIS Lab.
+👋 I am a doctoral student in the CA team at LITIS Lab.
 
 I'm interested in code-based cryptography, including coding theory, cryptosystems, cryptanalysis and all related topics.
 

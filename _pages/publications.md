@@ -22,7 +22,7 @@ author_profile: true
 </h1>
 
 <ol>
-  <li><span style='font-family: "Courier", cursive;'><em>Splittings and Endomorphism Rings</em></span>, with P. Kutas, <strong>submitted</strong></li>
+  <li><span style='font-family: "Courier", cursive;'><em>A Note on Splittings and Endomorphisms</em></span>, with P. Kutas, <strong>eprint</strong></li>
   <li style="line-height: 1.2;">
     <span style='font-family: "Courier", cursive;'><em>Endomorphisms via Splittings</em></span>, with S. Kunzweiler, <strong>PQCrypto 2026</strong>
     <ul style="margin-top: 2px; margin-bottom: 2px;">
