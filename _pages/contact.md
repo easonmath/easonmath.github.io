@@ -21,6 +21,4 @@ author_profile: true
 
 💬 Signal, WhatsApp and so on: I like using them, but email first
 
-**Even just a simple “hi” is welcome!**
-
-I truly dislike people who never reply, so I do my best not to become such a person myself. Some cases that I would not response: commercial advertisements, strange emails, cold people and liars.
+I truly dislike people who never reply, so I do my best not to become such a person myself. Some cases that I would not response: commercial advertisements, strange emails, cold or lying people.
